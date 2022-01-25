@@ -1,0 +1,536 @@
+answer_id,course_id,student_id,survey_id,question_id,question_category,answer_content,course_day,answer_datetime
+1450682,4,12070,3142,7127,NPS,10,1,2021-04-10 18:00:02
+1450685,4,12070,3142,4198,commentary,"Foi um ótimo curso, mas poderia ter um pouco mais de exercícios práticos",1,2021-04-10 18:00:02
+1450703,4,12492,3142,7127,NPS,10,1,2021-04-10 18:01:28
+1450717,4,12492,3142,4198,commentary,"Bom material, bons professores, bom tudo",1,2021-04-10 18:01:28
+1450722,4,12229,3142,7127,NPS,9,1,2021-04-10 18:02:55
+1450724,4,12229,3142,4198,commentary,"Gostei muito, queria saber se tem como falar com alguém que manje de data analytics em marketing",1,2021-04-10 18:02:55
+1450742,4,12278,3142,7127,NPS,6,1,2021-04-10 18:04:21
+1450744,4,12278,3142,5671,,7,1,2021-04-10 18:04:21
+1450757,4,12278,3142,4198,commentary,"Falta melhorar os exercícios práticos, o professor é ok e o material muito bom",1,2021-04-10 18:04:21
+1450758,4,12297,3142,7127,NPS,10,1,2021-04-10 18:05:48
+1450765,4,12297,3142,4198,commentary,Aqui tem um link legal de um material que poderia ser útil pra vcs: https://placeholder.com/link-material214214asdf4-56-123das-f,1,2021-04-10 18:05:48
+1450776,4,12242,3142,7127,NPS,10,1,2021-04-10 18:07:14
+1450779,4,12242,3142,4198,commentary,Gostaria de um pouco mais de atenção dos professores,1,2021-04-10 18:07:14
+1450797,4,12498,3142,7127,NPS,10,1,2021-04-10 18:08:40
+1450809,4,12498,3142,4198,commentary,Ainda não consegui acompanhar o ritmo mas o curso é muito bom,1,2021-04-10 18:08:40
+1450826,4,12708,3142,7127,NPS,10,1,2021-04-10 18:10:07
+1450840,4,12708,3142,4198,commentary,Muito legal a didática do professor,1,2021-04-10 18:10:07
+1450849,4,12772,3142,7127,NPS,9,1,2021-04-10 18:11:33
+1450866,4,12772,3142,4198,commentary,"Didática ruim mas o conteúdo compensa, os dias são muito animadores",1,2021-04-10 18:11:33
+1450874,4,12770,3142,7127,NPS,10,1,2021-04-10 18:13:00
+1450877,4,12770,3142,4198,commentary,-,1,2021-04-10 18:13:00
+1450895,4,12922,3142,7127,NPS,8,1,2021-04-10 18:14:26
+1450897,4,12922,3142,4198,commentary,Ainda nao consigo tirar uma opiniao valida,1,2021-04-10 18:14:26
+1450898,4,12987,3142,7127,NPS,10,1,2021-04-10 18:15:52
+1450906,4,12987,3142,4198,commentary,"Vejam esse vídeo, tem uma explicação legal de loops em python https://placeholder.com/lifsag94219009sai9a",1,2021-04-10 18:15:52
+1450915,4,16487,3142,7127,NPS,10,1,2021-04-10 18:17:19
+1450932,4,16487,3142,4198,commentary,Achei superficial a explicacao dessa parte de condicionais mas o restante é muito bom,1,2021-04-10 18:17:19
+1450951,4,16270,3142,7127,NPS,8,1,2021-04-10 18:18:45
+1450965,4,16270,3142,4198,commentary,acho que podia ter mais exercícios práticos com resoluções de case em python ou outras linguagens,1,2021-04-10 18:18:45
+1450985,4,16724,3142,7127,NPS,9,1,2021-04-10 18:20:12
+1450987,4,16724,3142,4198,commentary,precisei procurar um conteudo de lambda functions mas o restante é perfeito estao de parabens,1,2021-04-10 18:20:12
+1451002,4,16902,3142,7127,NPS,7,1,2021-04-10 18:21:38
+1451014,4,16902,3142,4198,commentary,queria um pouco mais de tempo pra fazer as aulas,1,2021-04-10 18:21:38
+1451033,4,16944,3142,7127,NPS,10,1,2021-04-10 18:23:04
+1451042,4,16944,3142,4198,commentary,"os exercícios e video aulas são espetaculares, e professor manda bem tbm",1,2021-04-10 18:23:04
+1451052,4,16924,3142,7127,NPS,9,1,2021-04-10 18:24:31
+1451065,4,16924,3142,4198,commentary,"queria saber como falar com o professor, estou com uma duvida conceitual",1,2021-04-10 18:24:31
+1451084,4,16729,3142,7127,NPS,9,1,2021-04-10 18:25:57
+1451085,4,16729,3142,4198,commentary,nao tive muitos problemas ate agora,1,2021-04-10 18:25:57
+1451088,4,16799,3142,7127,NPS,9,1,2021-04-10 18:27:24
+1451107,4,16799,3142,4198,commentary,Onde tem cases na plataforma? Queria estudar um pouco mais deles,1,2021-04-10 18:27:24
+1451112,4,16797,3142,7127,NPS,10,1,2021-04-10 18:28:50
+1451126,4,16797,3142,4198,commentary,achei pouco tempo pro dia mas de resto tudo ok,1,2021-04-10 18:28:50
+1451133,4,14029,3142,7127,NPS,7,1,2021-04-10 18:30:16
+1451141,4,14029,3142,4198,commentary,O exercício prático foi ruim,1,2021-04-10 18:30:16
+1451153,4,14024,3142,7127,NPS,10,1,2021-04-10 18:31:43
+1451171,4,14024,3142,4198,commentary,-,1,2021-04-10 18:31:43
+1451180,4,14297,3142,7127,NPS,10,1,2021-04-10 18:33:09
+1451195,4,14297,3142,4198,commentary,ok,1,2021-04-10 18:33:09
+1451214,4,14449,3142,7127,NPS,9,1,2021-04-10 18:34:36
+1451218,4,14449,3142,4198,commentary,mandaram muito bem no dia,1,2021-04-10 18:34:36
+1451234,4,14797,3142,7127,NPS,9,1,2021-04-10 18:36:02
+1451241,4,14797,3142,4198,commentary,-,1,2021-04-10 18:36:02
+1451249,4,14942,3142,7127,NPS,10,1,2021-04-10 18:37:28
+1451249,4,14942,3142,4198,commentary,queria um pouco mais de feedback dos exercicios entregues,1,2021-04-10 18:37:28
+1451256,4,14972,3142,7127,NPS,10,1,2021-04-10 18:38:55
+1451260,4,14972,3142,4198,commentary,nada,1,2021-04-10 18:38:55
+1451279,4,14899,3142,7127,NPS,6,1,2021-04-10 18:40:21
+1451292,4,14899,3142,4198,commentary,Falta melhorar exercícios práticos,1,2021-04-10 18:40:21
+1451297,4,14980,3142,7127,NPS,9,1,2021-04-10 18:41:48
+1451299,4,14980,3142,4198,commentary,acho que mais provas ajudaria a fixar o conhecimento,1,2021-04-10 18:41:48
+1451310,4,14097,3142,7127,NPS,10,1,2021-04-10 18:43:14
+1451311,4,14097,3142,4198,commentary,mais feedback das entregas e exercicios praticos mais claros,1,2021-04-10 18:43:14
+1451319,4,14400,3142,7127,NPS,10,1,2021-04-10 18:44:40
+1451335,4,14400,3142,4198,commentary,queria ver se consigo falar com o suporte pra resolver um problema que tive na plataforma,1,2021-04-10 18:44:40
+1451349,4,14229,3142,7127,NPS,10,1,2021-04-10 18:46:07
+1451366,4,14229,3142,4198,commentary,nao sei quando mas poderia ter umas palestras com pessoas da area,1,2021-04-10 18:46:07
+1451386,4,14444,3142,7127,NPS,10,1,2021-04-10 18:47:33
+1451405,4,14444,3142,4198,commentary,o exercicio pratico nao tem pé nem cabeça kkkk,1,2021-04-10 18:47:33
+1451413,4,14442,3142,7127,NPS,10,1,2021-04-10 18:49:00
+1451423,4,14442,3142,4198,commentary,"não sei se o tempo falta ou as aulas estão muito grandes, mas está difícil acompanhar",1,2021-04-10 18:49:00
+1451424,4,10442,3142,7127,NPS,8,1,2021-04-10 18:50:26
+1451435,4,10442,3142,4198,commentary,video aulas sensacionais,1,2021-04-10 18:50:26
+1451453,4,11449,3142,7127,NPS,8,1,2021-04-10 18:51:52
+1451455,4,11449,3142,4198,commentary,ainda nao consigo opinar direito,1,2021-04-10 18:51:52
+1451464,4,14447,3142,7127,NPS,9,1,2021-04-10 18:53:19
+1451468,4,14447,3142,4198,commentary,-,1,2021-04-10 18:53:19
+1451469,4,14424,3142,7127,NPS,8,1,2021-04-10 18:54:45
+1451475,4,14424,3142,4198,commentary,"o dia foi a melhor parte, mas aulas online tb sao muito boas",1,2021-04-10 18:54:45
+1451492,4,14470,3142,7127,NPS,10,1,2021-04-10 18:56:12
+1451495,4,14470,3142,4198,commentary,o curso é muito bom e a plataforma melhor ainda,1,2021-04-10 18:56:12
+1451498,4,14477,3142,7127,NPS,10,1,2021-04-10 18:57:38
+1451518,4,14477,3142,4198,commentary,o professor poderia melhorar o jeito de dar aula,1,2021-04-10 18:57:38
+1451526,4,14488,3142,7127,NPS,10,1,2021-04-10 18:59:04
+1451542,4,14488,3142,4198,commentary,Gostei desse cheat sheet poderiam incluir nos materiais https://placeholder.com/sheet123545f,1,2021-04-10 18:59:04
+1451550,4,14489,3142,7127,NPS,7,1,2021-04-10 19:00:31
+1451557,4,14489,3142,4198,commentary,"valeu bastante a pena o investimento, gostando muito até agora",1,2021-04-10 19:00:31
+1451561,4,14702,3142,7127,NPS,10,1,2021-04-10 19:01:57
+1451567,4,14702,3142,4198,commentary,-,1,2021-04-10 19:01:57
+1451573,4,14727,3142,7127,NPS,10,1,2021-04-10 19:03:24
+1451577,4,14727,3142,4198,commentary,parabens pela organizacao do dia,1,2021-04-10 19:03:24
+1451587,4,14729,3142,7127,NPS,10,1,2021-04-10 19:04:50
+1451598,4,14729,3142,4198,commentary,o conteudo online está de parabens,1,2021-04-10 19:04:50
+1451598,4,14799,3142,7127,NPS,10,1,2021-04-10 19:06:16
+1451609,4,14799,3142,4198,commentary,"esperava mais conteudo pratico, nao sei se ja estou preparado",1,2021-04-10 19:06:16
+1451625,4,14948,3142,7127,NPS,7,1,2021-04-10 19:07:43
+1451632,4,14948,3142,4198,commentary,"achei a organização do dia estranha, me atrapalhou muito",1,2021-04-10 19:07:43
+1451633,4,14927,3142,7127,NPS,10,1,2021-04-10 19:09:09
+1451635,4,14927,3142,4198,commentary,-,1,2021-04-10 19:09:09
+1451655,4,14994,3142,7127,NPS,10,1,2021-04-10 19:10:36
+1451664,4,14994,3142,4198,commentary,preciso de mais tempo pra opinar,1,2021-04-10 19:10:36
+1451683,4,14807,3142,7127,NPS,9,1,2021-04-10 19:12:02
+1451689,4,14807,3142,4198,commentary,"nao tive feedback quase nenhum do que fiz, poderiam melhorar isso",1,2021-04-10 19:12:02
+1451692,4,14872,3142,7127,NPS,10,1,2021-04-10 19:13:28
+1451712,4,14872,3142,4198,commentary,a plataforma tem umas funções muito boas que podiam ser mais exploradas,1,2021-04-10 19:13:28
+1451732,4,14882,3142,7127,NPS,10,1,2021-04-10 19:14:55
+1451738,4,14882,3142,4198,commentary,vejam isso https://placeholder.com/test213409fas9f8213 esse site contém questões de provas muito melhores que as que vimos,1,2021-04-10 19:14:55
+1451750,4,16048,3142,7127,NPS,9,1,2021-04-10 19:16:21
+1451751,4,16048,3142,4198,commentary,gostaria de aulas extras com exercicios para fixar conteudo,1,2021-04-10 19:16:21
+1451768,4,16074,3142,7127,NPS,8,1,2021-04-10 19:17:48
+1451780,4,16074,3142,4198,commentary,"queria um botao de marcar na timeline das videoaulas, so falta isso pra ficar perfeita",1,2021-04-10 19:17:48
+1451791,4,16092,3142,7127,NPS,10,1,2021-04-10 19:19:14
+1451798,4,16092,3142,4198,commentary,"achei o conteudo meio superficial em algumas partes, mas muito bom mesmo assim",1,2021-04-10 19:19:14
+1451802,4,16404,3142,7127,NPS,9,1,2021-04-10 19:20:40
+1451810,4,16404,3142,4198,commentary,"um dia quero ser bom igual esse professor, explica muito bem",1,2021-04-10 19:20:40
+1451810,4,16449,3142,7127,NPS,10,1,2021-04-10 19:22:07
+1451813,4,16449,3142,4198,commentary,achei o professor muito didático mas falta atenção dele no dia,1,2021-04-10 19:22:07
+1451828,4,16444,3142,7127,NPS,9,1,2021-04-10 19:23:33
+1451837,4,16444,3142,4198,commentary,a plataforma oferece tudo que eu queria,1,2021-04-10 19:23:33
+1451853,4,16477,3142,7127,NPS,8,1,2021-04-10 19:25:00
+1451856,4,16477,3142,4198,commentary,-,1,2021-04-10 19:25:00
+1451856,4,16220,3142,7127,NPS,10,1,2021-04-10 19:26:26
+1451867,4,16220,3142,4198,commentary,"os exercícios práticos precisam melhorar bastantes pra ficarem bons, mas o restante compensa",1,2021-04-10 19:26:26
+1451873,4,16242,3142,7127,NPS,10,1,2021-04-10 19:27:52
+1451877,4,16242,3142,4198,commentary,parabens o dia foi muito bom e o professor melhor ainda,1,2021-04-10 19:27:52
+1451885,4,16472,3142,7127,NPS,9,1,2021-04-10 19:29:19
+1451900,4,16472,3142,4198,commentary,nada,1,2021-04-10 19:29:19
+1451908,4,16977,3142,7127,NPS,10,1,2021-04-10 19:30:45
+1451918,4,16977,3142,4198,commentary,achei o dia superficial mas o curso ainda é bom,1,2021-04-10 19:30:45
+1451924,4,16780,3142,7127,NPS,10,1,2021-04-10 19:32:12
+1451937,4,16780,3142,4198,commentary,-,1,2021-04-10 19:32:12
+1451950,4,16984,3142,7127,NPS,10,1,2021-04-10 19:33:38
+1451958,4,16984,3142,4198,commentary,queria mais exemplos de como aplicar isso no trabalho,1,2021-04-10 19:33:38
+1451964,4,19007,3142,7127,NPS,10,1,2021-04-10 19:35:04
+1451967,4,19007,3142,4198,commentary,nada,1,2021-04-10 19:35:04
+1451976,4,19049,3142,7127,NPS,10,1,2021-04-10 19:36:31
+1451992,4,19049,3142,4198,commentary,Talvez colocar esse conteúdo aqui nas aulas de python ajude os outros alunos a entender https://placeholder.com/material320149fas9f4382139f0saf0as,1,2021-04-10 19:36:31
+1452009,4,19072,3142,7127,NPS,10,1,2021-04-10 19:37:57
+1452015,4,19072,3142,4198,commentary,"gostei do professor e da turma, achei legal",1,2021-04-10 19:37:57
+1452026,4,19079,3142,7127,NPS,10,1,2021-04-10 19:39:24
+1452037,4,19079,3142,4198,commentary,"falta um pouco mais de carinho nos exercícios práticos, mas não são ruins",1,2021-04-10 19:39:24
+1452039,4,19440,3142,7127,NPS,6,1,2021-04-10 19:40:50
+1452039,4,19440,3142,4198,commentary,"Não gostei da didática do professor, muito desapontado",1,2021-04-10 19:40:50
+1452043,4,19222,3142,7127,NPS,10,1,2021-04-10 19:42:16
+1452060,4,19222,3142,4198,commentary,"gostei do professor, explicou muito bem nas aulas, só pecou um pouco no dia",1,2021-04-10 19:42:16
+1452076,4,19242,3142,7127,NPS,10,1,2021-04-10 19:43:43
+1452087,4,19242,3142,4198,commentary,queria falar com alguém do suporte sobre uma possível parceria,1,2021-04-10 19:43:43
+1452100,4,19249,3142,7127,NPS,10,1,2021-04-10 19:45:09
+1452117,4,19249,3142,4198,commentary,vi um conteudo do instagram sobre condicionais que vou mandar pra vcs,1,2021-04-10 19:45:09
+1452137,4,19284,3142,7127,NPS,10,1,2021-04-10 19:46:36
+1452143,4,19284,3142,4198,commentary,ok,1,2021-04-10 19:46:36
+1452155,4,19247,3142,7127,NPS,10,1,2021-04-10 19:48:02
+1452173,4,19247,3142,4198,commentary,poderia ter como anotar nos videos na plataforma,1,2021-04-10 19:48:02
+1452192,4,19229,3142,7127,NPS,10,1,2021-04-10 19:49:28
+1452198,4,19229,3142,4198,commentary,-,1,2021-04-10 19:49:28
+1452218,4,19292,3142,7127,NPS,8,1,2021-04-10 19:50:55
+1452226,4,19292,3142,4198,commentary,"as aulas explicam bem, mas sem exemplos fica difícil saber como fazer isso no mundo real",1,2021-04-10 19:50:55
+1452228,4,19299,3142,7127,NPS,8,1,2021-04-10 19:52:21
+1452248,4,19299,3142,4198,commentary,"precisa melhorar o exercicio pratico, achei muito confuso",1,2021-04-10 19:52:21
+1452251,4,19289,3142,7127,NPS,10,1,2021-04-10 19:53:48
+1452256,4,19289,3142,4198,commentary,"nao sei se no resto do curso tem, mas ate agora nao tive nenhum feedback",1,2021-04-10 19:53:48
+1452260,4,11292,3142,7127,NPS,10,1,2021-04-10 19:55:14
+1452273,4,11292,3142,4198,commentary,assim que tiver mais horas no curso eu falo,1,2021-04-10 19:55:14
+1452273,4,19409,3142,7127,NPS,10,1,2021-04-10 19:56:40
+1452289,4,19409,3142,4198,commentary,"ainda não tenho muita opinião, mas estão mandando bem",1,2021-04-10 19:56:40
+1452293,4,19422,3142,7127,NPS,9,1,2021-04-10 19:58:07
+1452297,4,19422,3142,4198,commentary,mais feedback das atividades seria bom,1,2021-04-10 19:58:07
+1452307,4,19447,3142,7127,NPS,10,1,2021-04-10 19:59:33
+1452307,4,19447,3142,4198,commentary,"vi no youtube que dá pra fazer uma coisa q não tem no curso, com qm falo pra incluirem?",1,2021-04-10 19:59:33
+1452309,4,19489,3142,7127,NPS,10,1,2021-04-10 20:01:00
+1452321,4,19489,3142,4198,commentary,"queria mais tempo pra estudar, o curso passa muito rapido",1,2021-04-10 20:01:00
+1452332,4,19494,3142,7127,NPS,10,1,2021-04-10 20:02:26
+1452334,4,19494,3142,5671,,10,1,2021-04-10 20:02:26
+1452334,4,19494,3142,4198,commentary,queria dar parabens ao suporte pq me atenderam muito bem numa duvida,1,2021-04-10 20:02:26
+1452334,4,19700,3142,7127,NPS,10,1,2021-04-10 20:03:52
+1452338,4,19700,3142,4198,commentary,o professor ensina muito bem,1,2021-04-10 20:03:52
+1452345,4,19749,3142,7127,NPS,9,1,2021-04-10 20:05:19
+1452357,4,19749,3142,4198,commentary,a plataforma poderia ter uma seção de social pra conectarmos com os outros alunos,1,2021-04-10 20:05:19
+1452371,4,19770,3142,7127,NPS,10,1,2021-04-10 20:06:45
+1452380,4,19770,3142,4198,commentary,"tem feedback nos exercicios? se nao tem, seria bom ter",1,2021-04-10 20:06:45
+1452381,4,19794,3142,7127,NPS,10,1,2021-04-10 20:08:12
+1452392,4,19794,3142,4198,commentary,-,1,2021-04-10 20:08:12
+1452399,4,19792,3142,7127,NPS,6,1,2021-04-10 20:09:38
+1452418,4,19792,3142,4198,commentary,Sem didática nenhuma e não tem exercício prático bom,1,2021-04-10 20:09:38
+1452420,4,19772,3142,7127,NPS,10,1,2021-04-10 20:11:04
+1452426,4,19772,3142,4198,commentary,"nao estou conseguindo acompanhar, acho que falta mais tempo pra fazer",1,2021-04-10 20:11:04
+1452435,4,19787,3142,7127,NPS,4,1,2021-04-10 20:12:31
+1452448,4,19787,3142,4198,commentary,"Falta exercício prático e resoluções de cases, poderia ajudar muito no aprendizado",1,2021-04-10 20:12:31
+1452464,4,19944,3142,7127,NPS,10,1,2021-04-10 20:13:57
+1452466,4,19944,3142,4198,commentary,"o dia foi muito bom, e os alunos estao se ajudando muito, cria um networking legal",1,2021-04-10 20:13:57
+1452479,4,19929,3142,7127,NPS,7,1,2021-04-10 20:15:24
+1452495,4,19929,3142,4198,commentary,"Professor não deve ter dado aula nunca, não tem didática nenhuma",1,2021-04-10 20:15:24
+1452495,4,19920,3142,7127,NPS,10,1,2021-04-10 20:16:50
+1452508,4,19920,3142,4198,commentary,"muito bom o conteudo online, e o dia foi bem legal tbm",1,2021-04-10 20:16:50
+1452508,4,19924,3142,7127,NPS,10,1,2021-04-10 20:18:16
+1452522,4,19924,3142,4198,commentary,"fiz um exercicio e nao entendi a resolucao depois, poderiam melhorar o pdf",1,2021-04-10 20:18:16
+1452522,4,19922,3142,7127,NPS,10,1,2021-04-10 20:19:43
+1452540,4,19922,3142,4198,commentary,"os exercícios são muito lúdicos, precisava de algo mais concreto que já vimos pra entender melhor",1,2021-04-10 20:19:43
+1452559,4,19977,3142,7127,NPS,10,1,2021-04-10 20:21:09
+1452572,4,19977,3142,4198,commentary,"tive que pesquisar uma coisa das video aulas, mas foi tranquilo, pouca coisa",1,2021-04-10 20:21:09
+1452588,4,19984,3142,7127,NPS,10,1,2021-04-10 20:22:36
+1452605,4,19984,3142,4198,commentary,falta exercício prático mais claro e feedback constante das atividades,1,2021-04-10 20:22:36
+1452606,4,19740,3142,7127,NPS,8,1,2021-04-10 20:24:02
+1452617,4,19740,3142,4198,commentary,Não consegui aprender nada durante o dia pois o exercício prático é muito confuso,1,2021-04-10 20:24:02
+1452628,4,11749,3142,7127,NPS,10,1,2021-04-10 20:25:28
+1452637,4,11749,3142,4198,commentary,ok,1,2021-04-10 20:25:28
+1452657,4,19724,3142,7127,NPS,10,1,2021-04-10 20:26:55
+1452666,4,19724,3142,4198,commentary,os exercicios praticos no dia nao foram tao bons,1,2021-04-10 20:26:55
+1452669,4,19722,3142,7127,NPS,10,1,2021-04-10 20:28:21
+1452680,4,19722,3142,4198,commentary,preciso de mais tempo pra avaliar,1,2021-04-10 20:28:21
+1452696,4,11722,3142,7127,NPS,9,1,2021-04-10 20:29:48
+1452704,4,11722,3142,4198,commentary,-,1,2021-04-10 20:29:48
+1452713,4,19729,3142,7127,NPS,10,1,2021-04-10 20:31:14
+1452716,4,19729,3142,4198,commentary,"estou feliz, sem problemas ate o momento",1,2021-04-10 20:31:14
+1452733,4,11724,3142,7127,NPS,10,1,2021-04-10 20:32:40
+1452742,4,11724,3142,4198,commentary,"valeu muito a pena o investimento, estou adorando",1,2021-04-10 20:32:40
+1452746,4,19780,3142,7127,NPS,8,1,2021-04-10 20:34:07
+1452752,4,19780,3142,5671,,9,1,2021-04-10 20:34:07
+1452754,4,19780,3142,4198,commentary,"Gostei do curso, mas o professor poderia melhorar um pouco a didática nas aulas",1,2021-04-10 20:34:07
+1452759,4,19784,3142,7127,NPS,10,1,2021-04-10 20:35:33
+1452761,4,19784,3142,4198,commentary,"professor muito bom, queria saber se tem como tirar duvidas com ele",1,2021-04-10 20:35:33
+1452777,4,19847,3142,7127,NPS,10,1,2021-04-10 20:37:00
+1452796,4,19847,3142,4198,commentary,"queria mais teoria do conteudo, ficou muito superficial",1,2021-04-10 20:37:00
+1452803,4,19827,3142,7127,NPS,10,1,2021-04-10 20:38:26
+1452817,4,19827,3142,4198,commentary,gostaria de ver alguns exercicios em outras linguagens,1,2021-04-10 20:38:26
+1452836,4,12070,3142,7127,NPS,9,2,2021-04-24 18:00:03
+1452850,4,12070,3142,4198,commentary,"Adorei o professor, e a turma estava bem engajada",2,2021-04-24 18:00:03
+1452867,4,12492,3142,7127,NPS,9,2,2021-04-24 18:02:56
+1452870,4,12492,3142,4198,commentary,"Tive que pesquisar uma coisa que não tinha, mas o resto foi ótimo",2,2021-04-24 18:02:56
+1452877,4,12278,3142,5671,,10,2,2021-04-24 18:05:49
+1452890,4,12278,3142,7127,NPS,9,2,2021-04-24 18:05:49
+1452895,4,12278,3142,4198,commentary,"Gostei muito da didática do professor, e as aulas são muito boas",2,2021-04-24 18:05:49
+1452909,4,12297,3142,7127,NPS,10,2,2021-04-24 18:08:41
+1452910,4,12297,3142,4198,commentary,-,2,2021-04-24 18:08:41
+1452927,4,12242,3142,7127,NPS,8,2,2021-04-24 18:11:34
+1452934,4,12242,3142,4198,commentary,"não gostei tanto do dia, achei que faltou organização, mas o resto do curso está bom",2,2021-04-24 18:11:34
+1452934,4,12498,3142,7127,NPS,10,2,2021-04-24 18:14:27
+1452947,4,12498,3142,4198,commentary,muito bom o material online,2,2021-04-24 18:14:27
+1452959,4,12708,3142,7127,NPS,8,2,2021-04-24 18:17:20
+1452975,4,12708,3142,4198,commentary,a plataforma é muito boa e as video aulas melhores ainda,2,2021-04-24 18:17:20
+1452986,4,12772,3142,7127,NPS,10,2,2021-04-24 18:20:13
+1453006,4,12772,3142,4198,commentary,o dia de curso poderia ter mais atividades,2,2021-04-24 18:20:13
+1453012,4,12989,3142,7127,NPS,8,2,2021-04-24 18:23:05
+1453026,4,12989,3142,4198,commentary,ate agora tudo ok,2,2021-04-24 18:23:05
+1453042,4,12770,3142,7127,NPS,4,2,2021-04-24 18:25:58
+1453049,4,12770,3142,4198,commentary,achei o conteúdo péssimo e faltou mais materiais explicando a teoria por trás da aplicação,2,2021-04-24 18:25:58
+1453068,4,12922,3142,7127,NPS,8,2,2021-04-24 18:28:51
+1453078,4,12922,3142,4198,commentary,-,2,2021-04-24 18:28:51
+1453087,4,12987,3142,7127,NPS,10,2,2021-04-24 18:31:44
+1453093,4,12987,3142,4198,commentary,o suporte me atendeu muito bem quando precisei e as aulas estão muito boas,2,2021-04-24 18:31:44
+1453105,4,16487,3142,7127,NPS,10,2,2021-04-24 18:34:37
+1453125,4,16487,3142,4198,commentary,nada ainda,2,2021-04-24 18:34:37
+1453134,4,16270,3142,7127,NPS,10,2,2021-04-24 18:37:29
+1453149,4,16270,3142,4198,commentary,o professor do dia de curso foi muito bom,2,2021-04-24 18:37:29
+1453154,4,16724,3142,7127,NPS,10,2,2021-04-24 18:40:22
+1453173,4,16724,3142,4198,commentary,A plataforma é sensacional e me ajuda muito nos estudos,2,2021-04-24 18:40:22
+1453183,4,16902,3142,7127,NPS,8,2,2021-04-24 18:43:15
+1453187,4,16902,3142,4198,commentary,ok,2,2021-04-24 18:43:15
+1453205,4,16944,3142,7127,NPS,8,2,2021-04-24 18:46:08
+1453209,4,16944,3142,4198,commentary,professor com ótima didática e exercícios muito legais no dia ,2,2021-04-24 18:46:08
+1453212,4,16924,3142,7127,NPS,8,2,2021-04-24 18:49:01
+1453224,4,16924,3142,4198,commentary,muito bom as aulas tanto no dia quanto online,2,2021-04-24 18:49:01
+1453241,4,16729,3142,7127,NPS,7,2,2021-04-24 18:51:53
+1453252,4,16729,3142,4198,commentary,"achei que poderia ter mais conteudo teorico nas video aulas, e o professor não ensinou bem no dia, senti que foi um tempo perdido",2,2021-04-24 18:51:53
+1453254,4,16799,3142,7127,NPS,9,2,2021-04-24 18:54:46
+1453261,4,16799,3142,4198,commentary,falta algumas funções na plataforma como anotar nos videos e ver progresso,2,2021-04-24 18:54:46
+1453272,4,16797,3142,7127,NPS,10,2,2021-04-24 18:57:39
+1453276,4,16797,3142,4198,commentary,algumas aulas com erros de edição mas ainda são boas,2,2021-04-24 18:57:39
+1453276,4,14029,3142,7127,NPS,10,2,2021-04-24 19:00:32
+1453284,4,14029,3142,4198,commentary,-,2,2021-04-24 19:00:32
+1453301,4,14024,3142,7127,NPS,10,2,2021-04-24 19:03:25
+1453304,4,14024,3142,4198,commentary,A plataforma ainda pode melhorar mas tem um potencial enorme,2,2021-04-24 19:03:25
+1453319,4,14297,3142,7127,NPS,9,2,2021-04-24 19:06:17
+1453323,4,14297,3142,4198,commentary,"Gostei muito do dia de curso, e os alunos dos grupos que participei estão muito engajados",2,2021-04-24 19:06:17
+1453324,4,14449,3142,7127,NPS,9,2,2021-04-24 19:09:10
+1453332,4,14449,3142,4198,commentary,"muito bom, senti que aprendi bastante",2,2021-04-24 19:09:10
+1453350,4,14797,3142,7127,NPS,9,2,2021-04-24 19:12:03
+1453364,4,14797,3142,4198,commentary,"encontrei um bug em um script da aula de modelos de classificação, enviei pra vcs",2,2021-04-24 19:12:03
+1453379,4,14942,3142,7127,NPS,9,2,2021-04-24 19:14:56
+1453399,4,14942,3142,4198,commentary,não sei o que falar ainda,2,2021-04-24 19:14:56
+1453415,4,14972,3142,7127,NPS,10,2,2021-04-24 19:17:49
+1453415,4,14972,3142,4198,commentary,"o aprendizado foi bem grande no dia, e as video aulas estão de parabens",2,2021-04-24 19:17:49
+1453431,4,14980,3142,7127,NPS,9,2,2021-04-24 19:20:41
+1453449,4,14980,3142,4198,commentary,tive uns problemas na plataforma mas nada demais,2,2021-04-24 19:20:41
+1453458,4,14097,3142,7127,NPS,8,2,2021-04-24 19:23:34
+1453465,4,14097,3142,4198,commentary,Não vi problema nenhum e as aulas estão me ajudando muito no trabalho,2,2021-04-24 19:23:34
+1453478,4,14400,3142,7127,NPS,8,2,2021-04-24 19:26:27
+1453496,4,14400,3142,4198,commentary,ok,2,2021-04-24 19:26:27
+1453496,4,14444,3142,7127,NPS,8,2,2021-04-24 19:29:20
+1453515,4,14444,3142,4198,commentary,Achei o professor muito fera nas aulas online,2,2021-04-24 19:29:20
+1453530,4,14442,3142,7127,NPS,6,2,2021-04-24 19:32:13
+1453549,4,14442,3142,4198,commentary,o trabalho nessa área precisa de muita base teórica e não foi passado praticamente nada disso,2,2021-04-24 19:32:13
+1453558,4,10442,3142,7127,NPS,8,2,2021-04-24 19:35:05
+1453559,4,10442,3142,4198,commentary,.,2,2021-04-24 19:35:05
+1453562,4,11449,3142,7127,NPS,7,2,2021-04-24 19:37:58
+1453565,4,11449,3142,4198,commentary,"sinto que poderia ter aulas mais bem editadas e organizadas, deu um sentimento de bagunça essa parte",2,2021-04-24 19:37:58
+1453573,4,14447,3142,7127,NPS,7,2,2021-04-24 19:40:51
+1453573,4,14447,3142,4198,commentary,queria mais teoria pra entender o que podemos melhorar em modelos,2,2021-04-24 19:40:51
+1453586,4,14424,3142,7127,NPS,7,2,2021-04-24 19:43:44
+1453596,4,14424,3142,4198,commentary,o conteudo teorico pode melhorar mas as aulas ainda assim sao boas,2,2021-04-24 19:43:44
+1453597,4,10444,3142,7127,NPS,5,2,2021-04-24 19:46:37
+1453607,4,10444,3142,4198,commentary,"o professor não soube ensinar a parte teorica, parece que nem ele sabe direito",2,2021-04-24 19:46:37
+1453626,4,14470,3142,7127,NPS,10,2,2021-04-24 19:49:29
+1453638,4,14470,3142,4198,commentary,-,2,2021-04-24 19:49:29
+1453655,4,14477,3142,7127,NPS,9,2,2021-04-24 19:52:22
+1453655,4,14477,3142,4198,commentary,OK,2,2021-04-24 19:52:22
+1453670,4,14488,3142,7127,NPS,10,2,2021-04-24 19:55:15
+1453689,4,14488,3142,4198,commentary,"acho que a turma desanimou um pouco com algumas coisas, mas eu ainda estou bem satisfeito e gostando muito",2,2021-04-24 19:55:15
+1453705,4,14489,3142,7127,NPS,10,2,2021-04-24 19:58:08
+1453715,4,14489,3142,4198,commentary,Estou aprendendo bastante e as video aulas são muito boas com exemplos bons,2,2021-04-24 19:58:08
+1453733,4,14727,3142,7127,NPS,7,2,2021-04-24 20:01:01
+1453735,4,14727,3142,4198,commentary,"as video aulas não ensinam o suficiente, precisei procurar muita coisa fora",2,2021-04-24 20:01:01
+1453752,4,14729,3142,7127,NPS,9,2,2021-04-24 20:03:53
+1453758,4,14729,3142,4198,commentary,-,2,2021-04-24 20:03:53
+1453771,4,14799,3142,7127,NPS,10,2,2021-04-24 20:06:46
+1453788,4,14799,3142,4198,commentary,o professor do dia de curso foi muito bom,2,2021-04-24 20:06:46
+1453802,4,14948,3142,7127,NPS,9,2,2021-04-24 20:09:39
+1453819,4,14948,3142,4198,commentary,"vejam esse link, tem um guia legal de boas práticas de ML que não vimos no curso https://placeholder.com/gfasg134nijsaidjsd",2,2021-04-24 20:09:39
+1453829,4,14927,3142,7127,NPS,8,2,2021-04-24 20:12:32
+1453849,4,14927,3142,4198,commentary,tive alguns problemas pessoais que me atrapalharam o rendimento mas o curso está bom,2,2021-04-24 20:12:32
+1453853,4,14994,3142,7127,NPS,10,2,2021-04-24 20:15:25
+1453870,4,14994,3142,4198,commentary,Queria anotar coisas no vídeo mas não dá,2,2021-04-24 20:15:25
+1453873,4,14970,3142,7127,NPS,10,2,2021-04-24 20:18:17
+1453892,4,14970,3142,4198,commentary,muito bom,2,2021-04-24 20:18:17
+1453912,4,14807,3142,7127,NPS,7,2,2021-04-24 20:21:10
+1453922,4,14807,3142,4198,commentary,"o dia do curso em si não foi ruim, mas senti que a turma desanimou bastante e o conteúdo não foi tão bom",2,2021-04-24 20:21:10
+1453929,4,14872,3142,7127,NPS,10,2,2021-04-24 20:24:03
+1453939,4,14872,3142,4198,commentary,Acho que as aulas online estão com qualidade ruim mas o dia de curso é muito bom,2,2021-04-24 20:24:03
+1453944,4,14882,3142,7127,NPS,10,2,2021-04-24 20:26:56
+1453961,4,14882,3142,4198,commentary,suporte muito bom,2,2021-04-24 20:26:56
+1453968,4,16048,3142,7127,NPS,10,2,2021-04-24 20:29:49
+1453986,4,16048,3142,4198,commentary,não achei um material na plataforma sobre modelo de regressão logística,2,2021-04-24 20:29:49
+1453987,4,16074,3142,7127,NPS,9,2,2021-04-24 20:32:41
+1453988,4,16074,3142,4198,commentary,ainda está muito cedo pra ter opinião,2,2021-04-24 20:32:41
+1454007,4,16092,3142,7127,NPS,9,2,2021-04-24 20:35:34
+1454024,4,16092,3142,4198,commentary,bugs no script de pln,2,2021-04-24 20:35:34
+1454029,4,16404,3142,7127,NPS,9,2,2021-04-24 20:38:27
+1454033,4,16404,3142,4198,commentary,.,2,2021-04-24 20:38:27
+1454035,4,16449,3142,7127,NPS,10,2,2021-04-24 20:41:20
+1454055,4,16449,3142,4198,commentary,Poderia ter mais palestras fora o dia de curso para coisas relacionadas a área,2,2021-04-24 20:41:20
+1454063,4,16477,3142,7127,NPS,9,2,2021-04-24 20:44:13
+1454077,4,16477,3142,4198,commentary,-,2,2021-04-24 20:44:13
+1454079,4,16220,3142,7127,NPS,7,2,2021-04-24 20:47:05
+1454099,4,16220,3142,4198,commentary,as video aulas ainda sao boas mas pioraram bastante do ultimo dia pra cá,2,2021-04-24 20:47:05
+1454111,4,16242,3142,7127,NPS,9,2,2021-04-24 20:49:58
+1454124,4,16242,3142,4198,commentary,tudo ok ate o momento,2,2021-04-24 20:49:58
+1454125,4,16977,3142,7127,NPS,10,2,2021-04-24 20:52:51
+1454139,4,16977,3142,4198,commentary,"professor do dia mandou bem demais, mostra muito domínio",2,2021-04-24 20:52:51
+1454149,4,16984,3142,7127,NPS,10,2,2021-04-24 20:55:44
+1454158,4,16984,3142,4198,commentary,ok,2,2021-04-24 20:55:44
+1454167,4,19007,3142,7127,NPS,9,2,2021-04-24 20:58:37
+1454167,4,19007,3142,4198,commentary,aulas muito boas nao tenho do que reclamar,2,2021-04-24 20:58:37
+1454183,4,19049,3142,7127,NPS,10,2,2021-04-24 21:01:29
+1454184,4,19049,3142,4198,commentary,"queria mais tempo pra estudar, esta um pouco puxado",2,2021-04-24 21:01:29
+1454185,4,19440,3142,7127,NPS,10,2,2021-04-24 21:04:22
+1454204,4,19440,3142,4198,commentary,um pouco dificil de entender algumas aulas,2,2021-04-24 21:04:22
+1454222,4,19222,3142,7127,NPS,6,2,2021-04-24 21:07:15
+1454223,4,19222,3142,4198,commentary,"acho que podemos investir mais tempo na teoria, pois muito se fala em modelos de machine learning ruins pq não foi utilizado o correto",2,2021-04-24 21:07:15
+1454235,4,19242,3142,7127,NPS,10,2,2021-04-24 21:10:08
+1454253,4,19242,3142,4198,commentary,"o professor das aulas online é muito bom, explica direitinho",2,2021-04-24 21:10:08
+1454266,4,19284,3142,7127,NPS,10,2,2021-04-24 21:13:01
+1454266,4,19284,3142,4198,commentary,OK,2,2021-04-24 21:13:01
+1454272,4,19247,3142,7127,NPS,10,2,2021-04-24 21:15:53
+1454279,4,19247,3142,4198,commentary,muito bom,2,2021-04-24 21:15:53
+1454287,4,19299,3142,7127,NPS,9,2,2021-04-24 21:18:46
+1454303,4,19299,3142,4198,commentary,"talvez uma prova mais pesada sobre teoria ajudasse, fiquei com muitas dúvidas",2,2021-04-24 21:18:46
+1454304,4,19289,3142,7127,NPS,10,2,2021-04-24 21:21:39
+1454317,4,19289,3142,4198,commentary,nada ainda,2,2021-04-24 21:21:39
+1454319,4,19292,3142,7127,NPS,9,2,2021-04-24 21:24:32
+1454321,4,19292,3142,4198,commentary,"gostei muito mais desse professor que do outro, ensina bem",2,2021-04-24 21:24:32
+1454321,4,19409,3142,7127,NPS,10,2,2021-04-24 21:27:25
+1454330,4,19409,3142,4198,commentary,A plataforma podia ter um jeito de anotar coisas no video,2,2021-04-24 21:27:25
+1454331,4,19422,3142,7127,NPS,9,2,2021-04-24 21:30:17
+1454335,4,19422,3142,4198,commentary,"poderia ter uns exercícios sobre a teoria, alguns pontos ficaram confusos",2,2021-04-24 21:30:17
+1454336,4,19447,3142,7127,NPS,9,2,2021-04-24 21:33:10
+1454351,4,19447,3142,4198,commentary,faltou aprofundar alguns assuntos q veremos no dia a dia no trabalho,2,2021-04-24 21:33:10
+1454358,4,19489,3142,7127,NPS,7,2,2021-04-24 21:36:03
+1454370,4,19489,3142,4198,commentary,.,2,2021-04-24 21:36:03
+1454390,4,19494,3142,7127,NPS,3,2,2021-04-24 21:38:56
+1454401,4,19494,3142,4198,commentary,"péssimo, e o suporte mal me atende também, estou bem insatisfeito",2,2021-04-24 21:38:56
+1454405,4,19749,3142,7127,NPS,6,2,2021-04-24 21:41:49
+1454422,4,19749,3142,4198,commentary,"base teórica não ficou suficiente, plataforma com alguns bugs",2,2021-04-24 21:41:49
+1454441,4,19770,3142,7127,NPS,8,2,2021-04-24 21:44:41
+1454455,4,19770,3142,4198,commentary,Queria que tivesse como realçar coisas na plataforma pra anotações,2,2021-04-24 21:44:41
+1454460,4,19772,3142,7127,NPS,10,2,2021-04-24 21:47:34
+1454472,4,19772,3142,4198,commentary,"muito puxado o andamento, mas o conteudo é muito bom",2,2021-04-24 21:47:34
+1454488,4,19787,3142,7127,NPS,10,2,2021-04-24 21:50:27
+1454505,4,19787,3142,4198,commentary,nada,2,2021-04-24 21:50:27
+1454511,4,19944,3142,7127,NPS,10,2,2021-04-24 21:53:20
+1454520,4,19944,3142,4198,commentary,alguns exercicios não estão claros,2,2021-04-24 21:53:20
+1454539,4,19929,3142,7127,NPS,7,2,2021-04-24 21:56:13
+1454548,4,19929,3142,4198,commentary,poderia ter video aulas melhores e mais abrangentes,2,2021-04-24 21:56:13
+1454559,4,19924,3142,7127,NPS,10,2,2021-04-24 21:59:05
+1454569,4,19924,3142,4198,commentary,-,2,2021-04-24 21:59:05
+1454589,4,19977,3142,7127,NPS,10,2,2021-04-24 22:01:58
+1454592,4,19977,3142,4198,commentary,"o suporte me ajudou a tirar todas as duvidas, queria deixar meu parabens pra eles",2,2021-04-24 22:01:58
+1454592,4,19984,3142,7127,NPS,10,2,2021-04-24 22:04:51
+1454604,4,19984,3142,4198,commentary,queria que tivesse mais exercícios práticos,2,2021-04-24 22:04:51
+1454620,4,19740,3142,7127,NPS,9,2,2021-04-24 22:07:44
+1454626,4,19740,3142,4198,commentary,ainda preciso de mais tempo,2,2021-04-24 22:07:44
+1454632,4,11749,3142,7127,NPS,7,2,2021-04-24 22:10:37
+1454650,4,11749,3142,4198,commentary,"acho que o suporte precisa estar mais capacitado pra responder as dúvidas, tem muita coisa que não conseguem",2,2021-04-24 22:10:37
+1454657,4,19724,3142,7127,NPS,7,2,2021-04-24 22:13:29
+1454658,4,19724,3142,4198,commentary,"achei as vídeo aulas fracas, precisava de um pouco mais de teoria ou então um professor novo pra outra parte que nem falaram",2,2021-04-24 22:13:29
+1454667,4,19722,3142,7127,NPS,10,2,2021-04-24 22:16:22
+1454686,4,19722,3142,4198,commentary,OK,2,2021-04-24 22:16:22
+1454702,4,11722,3142,7127,NPS,10,2,2021-04-24 22:19:15
+1454714,4,11722,3142,4198,commentary,.,2,2021-04-24 22:19:15
+1454733,4,19729,3142,7127,NPS,10,2,2021-04-24 22:22:08
+1454748,4,19729,3142,4198,commentary,muito bom o conteúdo das aulas online,2,2021-04-24 22:22:08
+1454761,4,11724,3142,7127,NPS,10,2,2021-04-24 22:25:01
+1454771,4,11724,3142,4198,commentary,tudo bem ate agora,2,2021-04-24 22:25:01
+1454773,4,19780,3142,7127,NPS,6,2,2021-04-24 22:27:53
+1454793,4,19780,3142,4198,commentary,o professor não sabe ensinar direito e as video aulas cairam muito de qualidade,2,2021-04-24 22:27:53
+1454798,4,19784,3142,7127,NPS,9,2,2021-04-24 22:30:46
+1454807,4,19784,3142,4198,commentary,"gostei muito do dia de curso, as pessoas estão muito animadas e isso me motiva também",2,2021-04-24 22:30:46
+1454814,4,19847,3142,7127,NPS,8,2,2021-04-24 22:33:39
+1454830,4,19847,3142,4198,commentary,-,2,2021-04-24 22:33:39
+1454841,4,19827,3142,7127,NPS,9,2,2021-04-24 22:36:32
+1454861,4,19827,3142,4198,commentary,ok,2,2021-04-24 22:36:32
+1454877,4,12070,3142,7127,NPS,7,3,2021-05-08 18:00:05
+1454888,4,12070,3142,4198,commentary,"Ainda é um bom curso, mas faltou um pouco de comprometimento nos materiais",3,2021-05-08 18:00:05
+1454893,4,12492,3142,7127,NPS,10,3,2021-05-08 18:04:24
+1454910,4,12492,3142,4198,commentary,Está sendo um dos melhores investimentos da minha vida,3,2021-05-08 18:04:24
+1454921,4,12278,3142,7127,NPS,8,3,2021-05-08 18:08:43
+1454926,4,12278,3142,4198,commentary,"alguns materiais poderiam melhorar, mas tem outras partes muito boas ",3,2021-05-08 18:08:43
+1454927,4,12297,3142,7127,NPS,10,3,2021-05-08 18:13:03
+1454947,4,12297,3142,4198,commentary,-,3,2021-05-08 18:13:03
+1454965,4,12242,3142,7127,NPS,8,3,2021-05-08 18:17:22
+1454972,4,12242,3142,4198,commentary,"as dicas de portfolio couberam muito, vão me ajudar bastante a conseguir emprego na área",3,2021-05-08 18:17:22
+1454990,4,12498,3142,7127,NPS,9,3,2021-05-08 18:21:41
+1454993,4,12498,3142,4198,commentary,"As aplicações no trabalho que passaram eu gostei muito, fica mais fácil visualizar",3,2021-05-08 18:21:41
+1454997,4,12708,3142,7127,NPS,9,3,2021-05-08 18:26:00
+1455008,4,12708,3142,4198,commentary,muitos exemplos ajudou bastante o aprendizado,3,2021-05-08 18:26:00
+1455012,4,12772,3142,7127,NPS,10,3,2021-05-08 18:30:19
+1455022,4,12772,3142,4198,commentary,video aulas pioraram um pouco,3,2021-05-08 18:30:19
+1455041,4,12922,3142,7127,NPS,7,3,2021-05-08 18:34:39
+1455060,4,12922,3142,4198,commentary,"o curso é ok, mas precisa de algumas melhorias nos materiais e didática",3,2021-05-08 18:34:39
+1455075,4,12987,3142,7127,NPS,9,3,2021-05-08 18:38:58
+1455086,4,12987,3142,4198,commentary,queria saber se tem algum site pra montar plano de carreira,3,2021-05-08 18:38:58
+1455096,4,16487,3142,7127,NPS,9,3,2021-05-08 18:43:17
+1455107,4,16487,3142,4198,commentary,"Bastante conteúdo prático nesse curso agora, estou gostando",3,2021-05-08 18:43:17
+1455112,4,16724,3142,7127,NPS,10,3,2021-05-08 18:47:36
+1455124,4,16724,3142,4198,commentary,"Continuem melhorando, resolveram bastante feedback que já dei",3,2021-05-08 18:47:36
+1455130,4,16944,3142,7127,NPS,8,3,2021-05-08 18:51:55
+1455149,4,16944,3142,4198,commentary,"imagem pessoal e portfolio são topicos muito interessantes, adorei",3,2021-05-08 18:51:55
+1455162,4,16924,3142,7127,NPS,7,3,2021-05-08 18:56:15
+1455163,4,16924,3142,4198,commentary,"muita gente reclamando e não são revistos os materiais e aulas, a empresa precisa se mexer",3,2021-05-08 18:56:15
+1455178,4,16729,3142,7127,NPS,1,3,2021-05-08 19:00:34
+1455181,4,16729,3142,4198,commentary,"estou muito insatisfeito, vários materiais faltando, aulas superficiais e o professor parece mais perdido que a gente",3,2021-05-08 19:00:34
+1455189,4,16799,3142,7127,NPS,7,3,2021-05-08 19:04:53
+1455209,4,16799,3142,4198,commentary,o conteudo em algumas partes foi superficial mas tem bastante coisa util,3,2021-05-08 19:04:53
+1455226,4,16797,3142,7127,NPS,10,3,2021-05-08 19:09:12
+1455229,4,16797,3142,4198,commentary,O professor tem muita experiência e isso ajuda bastante no aprendizado,3,2021-05-08 19:09:12
+1455233,4,14024,3142,7127,NPS,10,3,2021-05-08 19:13:31
+1455236,4,14024,3142,4198,commentary,"gostei das video aulas dessa vez, estavam bem explicativas",3,2021-05-08 19:13:31
+1455237,4,14297,3142,7127,NPS,10,3,2021-05-08 19:17:51
+1455256,4,14297,3142,4198,commentary,ok,3,2021-05-08 19:17:51
+1455260,4,14449,3142,7127,NPS,1,3,2021-05-08 19:22:10
+1455271,4,14449,3142,4198,commentary,os materiais são ruins e as aulas precisam melhorar o conteúdo e didática,3,2021-05-08 19:22:10
+1455279,4,14942,3142,7127,NPS,9,3,2021-05-08 19:26:29
+1455285,4,14942,3142,4198,commentary,Está melhorando bastante pelo que estou percebendo,3,2021-05-08 19:26:29
+1455298,4,14980,3142,7127,NPS,9,3,2021-05-08 19:30:48
+1455311,4,14980,3142,4198,commentary,poderiam organizar rodas de networking pros alunos conseguirem mais oportunidades no futuro,3,2021-05-08 19:30:48
+1455319,4,14097,3142,7127,NPS,6,3,2021-05-08 19:35:07
+1455332,4,14097,3142,4198,commentary,"precisa dar mais atenção a problemas na plataforma, como vídeos e materiais com erro ou faltando",3,2021-05-08 19:35:07
+1455343,4,14444,3142,7127,NPS,8,3,2021-05-08 19:39:27
+1455357,4,14444,3142,4198,commentary,muito legal o material de carreira,3,2021-05-08 19:39:27
+1455358,4,14442,3142,7127,NPS,10,3,2021-05-08 19:43:46
+1455374,4,14442,3142,4198,commentary,Parabéns pro suporte que me deu atenção e já alterou as coisas que estavam erradas,3,2021-05-08 19:43:46
+1455389,4,10442,3142,7127,NPS,8,3,2021-05-08 19:48:05
+1455408,4,10442,3142,4198,commentary,nada,3,2021-05-08 19:48:05
+1455411,4,11449,3142,7127,NPS,6,3,2021-05-08 19:52:24
+1455431,4,11449,3142,4198,commentary,"acho que poderiam ensinar com mais calma alguns conteúdos, passou muito rápido",3,2021-05-08 19:52:24
+1455445,4,11424,3142,7127,NPS,6,3,2021-05-08 19:56:43
+1455460,4,11424,3142,4198,commentary,"O professor não consegue passar o conteúdo de jeito nenhum, ninguém entende.",3,2021-05-08 19:56:43
+1455462,4,14470,3142,7127,NPS,8,3,2021-05-08 20:01:03
+1455466,4,14470,3142,4198,commentary,achei muito interessante os artigos de carreira,3,2021-05-08 20:01:03
+1455484,4,14489,3142,7127,NPS,10,3,2021-05-08 20:05:22
+1455502,4,14489,3142,4198,commentary,poderia ter mais coisas de inteligencia artificial,3,2021-05-08 20:05:22
+1455522,4,14702,3142,7127,NPS,9,3,2021-05-08 20:09:41
+1455540,4,14702,3142,4198,commentary,"Gostei das experiências de trabalho que o professor compartilha, me ajudou muito",3,2021-05-08 20:09:41
+1455553,4,14729,3142,7127,NPS,10,3,2021-05-08 20:14:00
+1455564,4,14729,3142,4198,commentary,"gostei do exemplo de portfolio, mandaram bem",3,2021-05-08 20:14:00
+1455576,4,14799,3142,7127,NPS,10,3,2021-05-08 20:18:19
+1455578,4,14799,3142,4198,commentary,até agora nada,3,2021-05-08 20:18:19
+1455589,4,14970,3142,7127,NPS,0,3,2021-05-08 20:22:39
+1455604,4,14970,3142,4198,commentary,precisa melhorar muito o conteúdo das aulas,3,2021-05-08 20:22:39
+1455605,4,14872,3142,7127,NPS,8,3,2021-05-08 20:26:58
+1455605,4,14872,3142,4198,commentary,-,3,2021-05-08 20:26:58
+1455621,4,16074,3142,7127,NPS,8,3,2021-05-08 20:31:17
+1455632,4,16074,3142,4198,commentary,O suporte é muito atencioso,3,2021-05-08 20:31:17
+1455649,4,16092,3142,7127,NPS,8,3,2021-05-08 20:35:36
+1455666,4,16092,3142,4198,commentary,o dia do curso deixou a desejar pelas atividades mas os materiais que ficaram são muito bons,3,2021-05-08 20:35:36
+1455679,4,16449,3142,7127,NPS,8,3,2021-05-08 20:39:55
+1455687,4,16449,3142,4198,commentary,"muito bom, principalmente o dia do curso foi muito enriquecedor",3,2021-05-08 20:39:55
+1455702,4,16242,3142,7127,NPS,9,3,2021-05-08 20:44:15
+1455719,4,16242,3142,4198,commentary,queria mais exemplo prático,3,2021-05-08 20:44:15
+1455735,4,19007,3142,7127,NPS,9,3,2021-05-08 20:48:34
+1455747,4,19007,3142,4198,commentary,"acho que poderia colocar mais coisas nos exemplos, mas está bom",3,2021-05-08 20:48:34
+1455749,4,19049,3142,7127,NPS,10,3,2021-05-08 20:52:53
+1455755,4,19049,3142,4198,commentary,"As experiências que o professor passou são muito úteis, e vou conseguir aplicar bem no trabalho",3,2021-05-08 20:52:53
+1455772,4,19242,3142,7127,NPS,10,3,2021-05-08 20:57:12
+1455782,4,19242,3142,4198,commentary,"carreira é super importante pra esse tipo de curso, gostei",3,2021-05-08 20:57:12
+1455798,4,19299,3142,7127,NPS,10,3,2021-05-08 21:01:31
+1455814,4,19299,3142,4198,commentary,"o portfolio pessoal ficou muito legal, parabens",3,2021-05-08 21:01:31
+1455826,4,19292,3142,7127,NPS,6,3,2021-05-08 21:05:51
+1455834,4,19292,3142,4198,commentary,"precisa melhorar a didática do professor e dar uma revisada nos materiais, muita coisa faltando",3,2021-05-08 21:05:51
+1455845,4,19422,3142,7127,NPS,8,3,2021-05-08 21:10:10
+1455852,4,19422,3142,4198,commentary,experiência profissional conta muito e o professor mostrou bastante isso,3,2021-05-08 21:10:10
+1455852,4,19447,3142,7127,NPS,9,3,2021-05-08 21:14:29
+1455871,4,19447,3142,4198,commentary,"os alunos continuam muito unidos, a empresa poderia fazer mais coisas em cima disso pra aproveitar",3,2021-05-08 21:14:29
+1455882,4,19749,3142,7127,NPS,5,3,2021-05-08 21:18:48
+1455898,4,19749,3142,4198,commentary,"materiais ruins e sem revisão parece, muitos erros e informações erradas, preciso ficar procurando fora",3,2021-05-08 21:18:48
+1455912,4,19770,3142,7127,NPS,8,3,2021-05-08 21:23:07
+1455931,4,19770,3142,4198,commentary,gostei das dicas de como montar portfolio,3,2021-05-08 21:23:07
+1455944,4,19787,3142,7127,NPS,10,3,2021-05-08 21:27:27
+1455953,4,19787,3142,4198,commentary,ok,3,2021-05-08 21:27:27
+1455965,4,19944,3142,7127,NPS,10,3,2021-05-08 21:31:46
+1455973,4,19944,3142,4198,commentary,Não consigo resposta no suporte pra um problema de login,3,2021-05-08 21:31:46
+1455981,4,19929,3142,7127,NPS,6,3,2021-05-08 21:36:05
+1455999,4,19929,3142,4198,commentary,"o professor precisa melhorar a didática, quase não dá pra acompanhar",3,2021-05-08 21:36:05
+1456008,4,19977,3142,7127,NPS,10,3,2021-05-08 21:40:24
+1456014,4,19977,3142,4198,commentary,poderia ter mais coisas de carreira,3,2021-05-08 21:40:24
+1456030,4,19984,3142,7127,NPS,9,3,2021-05-08 21:44:43
+1456047,4,19984,3142,4198,commentary,muito bom,3,2021-05-08 21:44:43
+1456059,4,11749,3142,7127,NPS,8,3,2021-05-08 21:49:03
+1456073,4,11749,3142,4198,commentary,poderia ter mais encontros ao vivo ou presenciais,3,2021-05-08 21:49:03
+1456087,4,19724,3142,7127,NPS,7,3,2021-05-08 21:53:22
+1456088,4,19724,3142,4198,commentary,gostei do conteúdo mas algumas coisas estão faltando e bagunçadas,3,2021-05-08 21:53:22
+1456088,4,19729,3142,7127,NPS,9,3,2021-05-08 21:57:41
+1456103,4,19729,3142,4198,commentary,A plataforma tem muita coisa legal e facilitou meu aprendizado,3,2021-05-08 21:57:41
+1456109,4,11724,3142,5671,,8,3,2021-05-08 22:02:00
+1456118,4,11724,3142,7127,NPS,10,3,2021-05-08 22:02:00
+1456127,4,11724,3142,4198,commentary,o conteúdo das aulas está ok e a experiência do professor foi o diferencial dessa vez,3,2021-05-08 22:02:00
