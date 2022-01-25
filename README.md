@@ -8,6 +8,8 @@ This script takes commonly formatted survey data, applies some preprocessing for
 
 A fake data sample is included on the project, representing a fictitious education company, and was generated using random methods, so it shouldn't hold as much insight on processes as real data would.
 
+The full report with code and results can be found here: https://filipeoliveira94.github.io/nps-nlp-script/
+
 ## References and Tools Used
 
 This script was built using Python, with the common data science packages 'numpy', 'pandas' and 'matplotlib', along with more specific packages such as 'spacy' and 'nltk' for NLP, and 'wordcloud' for the end-result wordclouds.
